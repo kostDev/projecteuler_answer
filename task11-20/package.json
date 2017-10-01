@@ -1,0 +1,14 @@
+{
+  "name": "task11-20",
+  "version": "1.0.0",
+  "description": "save mode",
+  "main": "task11.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kostya potapenko",
+  "license": "MIT",
+  "dependencies": {
+    "big-number": "^0.4.0"
+  }
+}
