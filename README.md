@@ -12,4 +12,5 @@
 - [x] 10. Summation of primes
 - [x] 11. Largest product in a grid
 - [x] 12. Highly divisible triangular number
-- [ ] 13. Large sum
+- [x] 13. Large sum
+- [ ] 14. Longest Collatz sequence
