@@ -13,4 +13,5 @@
 - [x] 11. Largest product in a grid
 - [x] 12. Highly divisible triangular number
 - [x] 13. Large sum
-- [ ] 14. Longest Collatz sequence
+- [x] 14. Longest Collatz sequence
+- [ ] 15. Lattice paths
