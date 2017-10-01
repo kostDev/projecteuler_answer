@@ -15,3 +15,4 @@
 - [x] 13. Large sum
 - [x] 14. Longest Collatz sequence
 - [ ] 15. Lattice paths
+- [x] 16. Power digit sum
