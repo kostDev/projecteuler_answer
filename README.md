@@ -17,4 +17,5 @@
 - [ ] 15. Lattice paths
 - [x] 16. Power digit sum
 - [x] 18. Maximum path sum I
+- [x] 20. Factorial digit sum
 - [x] 64. Maximum path sum II
