@@ -1,5 +1,5 @@
 const fs = require('fs')
-const digits = fs.readFileSync('../files/digits8.txt', 'utf8');
+const digits = fs.readFileSync('../files/task8.txt', 'utf8');
 
 let findBigNum = arr =>{
 	let value = 1, count = 0, temp_arr = [], limit = 3000000000;

@@ -16,3 +16,5 @@
 - [x] 14. Longest Collatz sequence
 - [ ] 15. Lattice paths
 - [x] 16. Power digit sum
+- [x] 18. Maximum path sum I
+- [x] 64. Maximum path sum II

@@ -1,5 +1,5 @@
 const fs = require('fs');
-const arr = fs.readFileSync('../files/digits11.txt','utf8');
+const arr = fs.readFileSync('../files/task11.txt','utf8');
 const limit = 20; // from task
 const findProduct = () =>{
 	let goodArr = giveMeGoodArr(arr.split(',').toString());
