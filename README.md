@@ -20,4 +20,5 @@
 - [x] 20. Factorial digit sum
 - [x] 21. Amicable numbers
 - [x] 22. Names scores
+- [x] 25. 1000-digit Fibonacci number
 - [x] 64. Maximum path sum II
