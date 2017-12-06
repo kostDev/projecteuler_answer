@@ -21,4 +21,6 @@
 - [x] 21. Amicable numbers
 - [x] 22. Names scores
 - [x] 25. 1000-digit Fibonacci number
+- [x] 36. Double-base palindromes
+- [x] 48. Self powers
 - [x] 64. Maximum path sum II
